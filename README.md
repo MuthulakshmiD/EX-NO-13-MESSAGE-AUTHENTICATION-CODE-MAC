@@ -66,7 +66,8 @@ else:
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/f19a30c5-42ea-40c6-8de1-65a592980533)
+![image](https://github.com/user-attachments/assets/704fcb53-30f5-4199-b6c4-09010a5d9e74)
+
 
 ## Result:
 The program is executed successfully.
